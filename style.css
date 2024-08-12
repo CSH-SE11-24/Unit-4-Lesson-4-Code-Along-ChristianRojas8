@@ -1,0 +1,59 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+body{
+background-color: #722F37;
+
+
+p{
+  text-align:center;
+}
+
+  #red{
+    color:red
+  }
+
+  #orange{
+    color:orange;
+  }
+  #yellow{
+    color:yellow;
+  }
+  #Green{
+    color: green;
+  }
+  #Blue{
+    color: blue;
+  }
+  #Indigo{
+    color:Indigo
+  }
+  #violet{
+    color:violet
+  }
+
+  .color{
+    color: red;
+  }
+
+  #big{
+    width: 80%;
+    height: auto;
+    margin-left: 20%;
+  }
+
+  .small{
+    width: 30%;
+    height: auto;
+  }
+
+  #kingbob{
+    margin-left: 5%;
+  }
+
+  #Papyrus{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
